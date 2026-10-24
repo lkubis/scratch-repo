@@ -1,0 +1,2 @@
+# Store everything with Unix line endings. The worker applies patches on Linux; a file committed with Windows line endings would not match them.
+* text=auto eol=lf
